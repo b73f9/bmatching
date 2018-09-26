@@ -1,0 +1,7 @@
+CMakeCache.txt
+cmake_install.cmake
+tests/*
+run_tests.sh
+Makefile
+adorate
+CMakeFiles/*
